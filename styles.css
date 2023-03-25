@@ -1,0 +1,77 @@
+.no-see {
+    display: none;
+}
+
+.no-see2 {
+    display: none;
+}
+
+.no-see3 {
+    display: none;
+}
+
+.no-see32 {
+    display: none;
+}
+
+h2 {
+    font-family: 'Lemonada', cursive;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+h6 {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+h1 {
+    font-family: 'Sriracha', cursive;
+	text-align:center;
+    border:3px inset grey;
+  border-radius:10px;
+    margin:auto;
+    width: 200px;
+  margin: auto;
+  background-color:black;
+}
+
+body {
+    background-image: url("https://data.whicdn.com/images/271031151/original.gif");
+    color: white;
+    background-size: 1500px;
+    
+}
+
+
+button:hover { color: red; text-decoration: underline;}    
+button:active { color:purple;} 
+
+button {
+    color: lightblue;
+    background-color: black;
+    border-radius: 50px;
+    font-family: 'Comfortaa', cursive;
+  
+}
+
+input {
+
+    width: 200px;
+    height: 20px;
+}
+
+#size {
+    width: 90px;
+    height: 70px;
+}
+
+#redo{
+
+display:none;
+    
+}
+
